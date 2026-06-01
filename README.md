@@ -1,8 +1,7 @@
 # Elegant-Yachting-Tours-Website
 A website for a yachting tour company
-# PROJECT_NAME_HERE  
 
-A brief description of your full-stack application.  
+This is a mockup website for a yachting tours company.
 Explain what the app does, who it’s for, and what problem it solves.
 
 Live Demo: https://your-live-link.com  
@@ -33,10 +32,10 @@ Backend Repo: https://github.com/username/backend-repo
 ## Overview
 
 ### Motivation
-Why did you build this project?
+Demonstrating capabilities with web development and hosting it through vercel.
 
 ### Objective
-What problem does this application solve?
+Mockup for a company through requrirements.
 
 ### Learning Outcomes
 - Built full authentication system
