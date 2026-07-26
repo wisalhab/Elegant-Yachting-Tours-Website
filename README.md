@@ -2,11 +2,7 @@
 A website for a yachting tour company
 
 This is a mockup website for a yachting tours company.
-Explain what the app does, who it’s for, and what problem it solves.
 
-Live Demo: https://your-live-link.com  
-Frontend Repo: https://github.com/username/frontend-repo  
-Backend Repo: https://github.com/username/backend-repo  
 
 ---
 
