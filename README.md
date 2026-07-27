@@ -2,7 +2,8 @@
 A website for a yachting tour company
 
 This is a mockup website for a yachting tours company.
-elegantyachtingtours.vercel.app
+
+[Elegant Yachting Tours] (elegantyachtingtours.vercel.app)
 
 
 ---
