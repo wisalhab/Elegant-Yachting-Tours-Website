@@ -3,7 +3,7 @@ A website for a yachting tour company
 
 This is a mockup website for a yachting tours company.
 
-[Elegant Yachting Tours](elegantyachtingtours.vercel.app)
+elegantyachtingtours.vercel.app
 
 
 ---
